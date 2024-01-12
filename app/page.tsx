@@ -30,7 +30,7 @@ export default function Home() {
         <li>Abdelrahman Elbasel</li>
         <li>Mohamed Rafik</li>
         <li>Habiba Mohammed</li>
-        <li>Banan Molhem</li>
+        <li>Banan Molham</li>
         <li>Abdelrahman Mahmoud</li>
         <li>Mahmoud Tarek</li>
         <li>Yara EidYousef</li>
